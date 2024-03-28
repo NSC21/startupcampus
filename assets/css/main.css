@@ -1585,14 +1585,14 @@ ol {
     padding: 18px 0 !important;
   }
   .header .mobile-menu-btn .toggler-icon {
-    background-color: #fff;
+    background-color: #7ac142;
   }
   .header .navbar-collapse {
     position: absolute;
     top: 62px !important;
     left: 0;
     width: 100%;
-    background-color: #fff;
+    background-color: #7ac142;
     z-index: 9;
     -webkit-box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.1);
             box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.1);
