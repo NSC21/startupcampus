@@ -924,13 +924,14 @@ ol {
   padding-bottom: 120px;
   z-index: 2;
   text-align: left;
-  background-color: #081828;
-  background-image: url("../images/bread-bg/banner-bg.svg");
+  background-color: #fff;
+  /* background-image: url("../images/bread-bg/banner-bg.svg"); */
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
-  -webkit-box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.075);
-          box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.075);
+  /* -webkit-box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.075);
+          box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.075); */
+  
 }
 
 .breadcrumbs::before {
@@ -940,7 +941,7 @@ ol {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #081828;
+  background-color: #fff;
   opacity: 0.7;
 }
 
@@ -965,7 +966,7 @@ ol {
 
 .breadcrumbs .breadcrumbs-content .page-title {
   font-size: 26px;
-  color: #fff;
+  color: #000;
   font-weight: 700;
   position: relative;
   line-height: 28px;
@@ -1013,7 +1014,7 @@ ol {
   padding-right: 14px;
   margin-right: 14px;
   text-transform: capitalize;
-  color: #fff;
+  color: #000;
 }
 
 .breadcrumbs .breadcrumb-nav li:after {
@@ -1036,7 +1037,7 @@ ol {
 
 .breadcrumbs .breadcrumb-nav li,
 .breadcrumbs .breadcrumb-nav li a {
-  color: #fff;
+  color: #000;
   font-size: 14px;
   font-weight: 500;
 }
@@ -1055,7 +1056,7 @@ ol {
 }
 
 .breadcrumbs .breadcrumb-nav li a:hover {
-  color: #e4e4e4;
+  color: #000;
 }
 
 .section {
@@ -1585,7 +1586,7 @@ ol {
     padding: 18px 0 !important;
   }
   .header .mobile-menu-btn .toggler-icon {
-    background-color: #fff;
+    background-color: #aaaaaad9;
   }
   .header .navbar-collapse {
     position: absolute;
